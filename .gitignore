@@ -1,0 +1,12 @@
+target/
+.bsp
+.idea
+logs
+target
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/credentials
+.DS_Store
